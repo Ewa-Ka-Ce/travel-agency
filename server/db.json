@@ -1,0 +1,93 @@
+{
+  "orders": [
+  {
+    "car-rental": "luxury",
+    "accommodation": "hotel",
+    "features": [
+      "all-inclusive",
+      "pool",
+      "security"
+    ],
+    "adults": "3",
+    "children": 0,
+    "name": "Ewa",
+    "contact": "123 456 789",
+    "start-date": "",
+    "totalCost": "$109,762",
+    "id": 1
+  },
+  {
+    "car-rental": "full",
+    "accommodation": "hotel",
+    "features": [
+      "pool",
+      "all-inclusive"
+    ],
+    "adults": "1",
+    "children": 0,
+    "name": "abc",
+    "contact": "123",
+    "start-date": "",
+    "totalCost": "$30,619",
+    "tripName": "Pleasant trek in outstanding Togo",
+    "tripId": "5cc1d10181a30e85c8d9ad4a",
+    "id": 2
+  },
+  {
+    "car-rental": "luxury",
+    "accommodation": "house",
+    "features": [
+      "pool",
+      "security"
+    ],
+    "adults": "5",
+    "children": "2",
+    "name": "Mike Smith",
+    "contact": "",
+    "start-date": "2021-07-27T22:00:00.000Z",
+    "totalCost": "$334,084",
+    "tripName": "Pleasant travel in cool Turkey",
+    "tripId": "5cc1d10130dfa407e2e54e20",
+    "id": 8
+  },
+  {
+    "tripId": "5cc1d1014c75f672e46ef6d7",
+    "tripName": "Marvelous travel in fantastic Timor-Leste",
+    "tripCountryCode": "TLS",
+    "car-rental": "luxury",
+    "accommodation": "house",
+    "features": [
+      "all-inclusive",
+      "kitchen",
+      "pool",
+      "security"
+    ],
+    "adults": "4",
+    "children": "1",
+    "start-date": "2021-07-22T22:00:00.000Z",
+    "name": "Miner Fred",
+    "contact": "421 3431 12 34",
+    "totalCost": "$649,793",
+    "id": 7
+  },
+
+  {
+    "tripId": "5cc1d1011736309a788fd36d",
+    "tripName": "Marvelous foray in brilliant Tokelau",
+    "tripCountryCode": "TKL",
+    "car-rental": "full",
+    "accommodation": "suite",
+    "features": [
+      "all-inclusive",
+      "kitchen"
+    ],
+    "adults": "2",
+    "children": 0,
+    "start-date": "2021-07-29T22:00:00.000Z",
+    "name": "",
+    "contact": "",
+    "totalCost": "$262,003",
+    "id": 11
+  }
+]
+}
